@@ -104,17 +104,126 @@ body {
 
 .list-main1 {
     line-height: 46px;
-    padding-top: 370px;
-    display: flex;
+    
 }
 
-.button-main1 {
+.button1-main1 {
+    margin-top: 230px;
     color: #ffffff;
     width: 380px;
     height: 83px;
     margin-left: 120px;
-    border: 5px;
     background: linear-gradient(to right, #B13E18, #F3501A);
     font-weight: 400;
     font-size: 40px;
+    box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.5);
+    border-color: black;
+}
+
+.button2-main1 {
+    margin-top: 100px;
+    color: #ffffff;
+    width: 380px;
+    height: 83px;
+    margin-left: 120px;
+    background: linear-gradient(to right, #B13E18, #F3501A);
+    font-weight: 400;
+    font-size: 40px;
+    box-shadow:5px 5px 0 rgba(0, 0, 0, 0.5);
+}
+
+.main1-img {
+    height: 780px;
+    margin-left: 21px;
+}
+
+.main2-h2 {
+    padding-top: 285px;
+    margin-left: 140px;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.main2-info {
+    width: 100%;
+    text-align: center;
+    padding-top: 400px;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.footer1 {
+    width: 100%;
+    max-height: 1200px;
+    background-color: #D53005;
+}
+
+.footer2-h2 {
+    padding-top: 95px;
+    margin-left: 140px;
+    font-size: 35px;
+    font-weight: 400
+}
+
+.footer2-main {
+    width: 100%;
+    display: flex;
+    
+}
+
+.block-button {
+    margin-left: 240px;
+    margin-top: 100px;
+    line-height: 100px;
+}
+
+.footer1-button1 {
+    background-color: black;
+    color: #ffffff;
+    border-radius: 30px;
+    width: 240px;
+    height: 60px;
+    font-weight: 400;
+    font-size: 20px;
+    border: 1px;
+    line-height: 24px;
+}
+
+.footer1-button2 {
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    width: 240px;
+    height: 60px;
+    font-weight: 400;
+    font-size: 20px;
+    border: 1px;
+    line-height: 24px;
+}
+
+.block-text {
+    margin-left: 140px;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.footer1-text1 {
+    font-weight: 800;
+    font-size: 21px;
+    line-height: 26px;
+}
+
+.footer1-text2 {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.footer1-a {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
 }
